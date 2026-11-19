@@ -7,7 +7,7 @@
 
 ## 🚀 Academic Projects
 
-### 🏠 PrismPlan – Computer Vision and Cognitive Systems(https://github.com/Elena-Bernini/PrismTeam.git)
+### 🏠[PrismPlan – Computer Vision and Cognitive Systems](https://github.com/Elena-Bernini/PrismTeam)
 **Status:** 🚧 Work in Progress
 
 An ongoing academic project developed in collaboration with **Maticad**, focused on AI-assisted interior design through the application of Computer Vision, Deep Learning, and Graph Neural Networks (GNNs).

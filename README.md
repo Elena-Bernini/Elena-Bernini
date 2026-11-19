@@ -7,11 +7,10 @@
 
 ## 🚀 Academic Projects
 
-### 🏠 [PrismPlan – Computer Vision and Cognitive Systems](https://github.com/Elena-Bernini/PrismTeam)
+### 🏠 PrismPlan – Computer Vision and Cognitive Systems(https://github.com/Elena-Bernini/PrismTeam.git)
+**Status:** 🚧 Work in Progress
 
-An AI-assisted floor plan retrieval system developed in collaboration with **Maticad**.
-
-The project explores **Computer Vision, Graph Neural Networks (GNNs), and similarity search** to retrieve floor plans based on visual and structural features.
+An ongoing academic project developed in collaboration with **Maticad**, focused on AI-assisted interior design through the application of Computer Vision, Deep Learning, and Graph Neural Networks (GNNs).
 
 **Technologies:** `Python` · `PyTorch` · `DINOv2` · `GraphSAGE` · `FAISS`
 
